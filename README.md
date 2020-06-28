@@ -1,2 +1,2 @@
 # hello-world
-Just for exercise
+本项目用来练习使用github的基础操作
